@@ -28,3 +28,4 @@ locals {
         var.public_subnet_tags
     )
 }
+
